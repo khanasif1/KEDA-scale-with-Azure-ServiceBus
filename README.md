@@ -1,1 +1,1 @@
-# KEDA-scale-with-Azure-ServiceBus
+# KEDA Scale with Azure ServiceBus
